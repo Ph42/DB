@@ -1,0 +1,19 @@
+http://2sql.ru/
+https://www.w3schools.com/sql/sql_primarykey.asp
+https://dev.mysql.com/doc/refman/5.7/en/views.html
+https://dev.mysql.com/doc/refman/5.7/en/union.html
+SQL за 20 минут
+https://proglib.io/p/sql-practice-sites/
+https://sql-language.ru/alter-table.html
+https://habrahabr.ru/post/256655/
+http://oracledb.ru/sql/ddl-i-obekty-sxemy/ogranicheniya.html
+http://docs.oracle.com/cd/B19306_01/server.102/b14200/clauses002.htm
+
+MySQL - Справочник по языку
+https://books.google.ru/books?id=Zvx0bE5Qr4QC&pg=PA83&lpg=PA83&dq=%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+Database&source=bl&ots=GL5C10LjnK&sig=FCFZfaaiyrwU72b63xog5153ofA&hl=ru&sa=X&ved=0ahUKEwjnx4qa_f3UAhUpQpoKHdLeDRAQ6AEIMzAD#v=onepage&q=%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20Database&f=false
+
+Просто статьи
+https://habrahabr.ru/post/128991/
+https://habrahabr.ru/sandbox/22697/
+https://habrahabr.ru/post/332580/
+https://habrahabr.ru/post/207102/
