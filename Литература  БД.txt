@@ -9,6 +9,9 @@ https://habrahabr.ru/post/256655/
 http://oracledb.ru/sql/ddl-i-obekty-sxemy/ogranicheniya.html
 http://docs.oracle.com/cd/B19306_01/server.102/b14200/clauses002.htm
 
+Типы данных Oracle
+https://docs.oracle.com/cd/B28359_01/server.111/b28286/sql_elements001.htm#SQLRF50950
+
 MySQL - Справочник по языку
 https://books.google.ru/books?id=Zvx0bE5Qr4QC&pg=PA83&lpg=PA83&dq=%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+Database&source=bl&ots=GL5C10LjnK&sig=FCFZfaaiyrwU72b63xog5153ofA&hl=ru&sa=X&ved=0ahUKEwjnx4qa_f3UAhUpQpoKHdLeDRAQ6AEIMzAD#v=onepage&q=%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%BE%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20Database&f=false
 
